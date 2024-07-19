@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijan Tripathi</h1>
 <h3 align="center">Welcome to my GitHub, where clean code is the goal, bugs are well fed.</h3>
 <hr>
-<img align='right' src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="280">
 
 
 - ⚡ **My dog 🐶 knows how to code.**
