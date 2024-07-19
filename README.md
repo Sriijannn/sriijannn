@@ -1,29 +1,57 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Srijan Tripathi</h1>
-<h3 align="center">Welcome to my GitHub, where clean code is the goal, bugs are well fed, and commit messages are part diary, part poetry.</h3>
+<h3 align="center">Welcome to my GitHub, where clean code is the goal, bugs are well fed.</h3>
+<hr>
+<img align='right' src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriijannn&label=Profile%20views&color=0e75b6&style=flat" alt="sriijannn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriijannn" alt="sriijannn" /></a> </p>
+- ⚡ **My dog 🐶 knows how to code.**
+- 📝 I ( will ) regularly write articles on [My LinkedIn](https://www.linkedin.com/in/srijantripathii/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/srijantripathii/](https://www.linkedin.com/in/srijantripathii/)
+- 📫 I am busy watching Phineas and Ferb, but if you still wanna try your luck **[Mail Me.](developer.srijan@gmail.com)**
 
-- 📫 Well I won't respond to you, but if you still wanna try your luck- **developer.srijan@gmail.com**
 
-- ⚡ Fun fact **My dog 🐶 knows how to code.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srijantripathii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijantripathii" height="30" width="40" /></a>
-<a href="https://instagram.com/codeitsrijan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeitsrijan" height="30" width="40" /></a>
+<hr>
+
+
+
+<h3>I Can Speak :</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Django-0769AD?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/react-CC6699?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-43853D?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriijannn&show_icons=true&locale=en&layout=compact" alt="sriijannn" /></p>
+<h3>Moreover :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriijannn&show_icons=true&locale=en" alt="sriijannn" /></p>
+<p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sriijannn&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="sriijannn" />
+<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=sriijannn&theme=tokyonight" alt="sriijannn" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sriijannn&show_icons=true&locale=en&theme=tokyonight" alt="sriijannn" /> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriijannn&" alt="sriijannn" /></p>
+</p>
+
+<hr>
+
+<h3>Probably Listening To :</h3>
+
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q?si=qDJ24m7MQ3ifcIKg8wQCTw)
+
+
+
 
